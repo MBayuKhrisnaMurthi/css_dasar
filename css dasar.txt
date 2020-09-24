@@ -1,0 +1,26 @@
+materi css
+=======================================	1
+selector { property : value
+
+
+=======================================	2
+font-family = mengubah jenis font
+font-size = mengatur ukuran font
+font-weight = mengatur ketebalan font
+font-variant = mengubah font menjadi small caps
+font-style = untuk mengubah font menjadi bercetak miring
+line-height = mengatur spasi antar baris
+
+sans-serif tidak memiliki kaki
+serif memiliki kaki
+
+font size = px, %
+font weight = normal, bold, lighter
+font varian = smallcaps
+font style = bold, italic
+line height = px, %
+
+font = style, variant, weight, size, line height, family
+wajib = size , family
+
+=======================================	3

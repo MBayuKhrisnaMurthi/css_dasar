@@ -1,0 +1,7 @@
+/*INLINE, ID, CLASS, ELEMENT = p itu sendiri*/
+#ul li{
+	color: green;
+}
+#ul li.li{
+	color: red;
+}

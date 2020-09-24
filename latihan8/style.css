@@ -1,0 +1,9 @@
+body{
+	color: grey;
+	font-family: arial;
+}
+.inherit{
+	font-size: 20px;
+	text-align: center;
+	color: inherit;
+}
